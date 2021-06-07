@@ -2,7 +2,9 @@
 
 #### I sometimes write code and like to dream about doing it at work someday.
 
-🌱 I’m currently learning Rust and Scottish Gaelic
+🔭 I’m currently working on my [GM writeups for a D&D Campaign](https://github.com/ananaso/GMNotes_CurseOfStrahd)
+
+🌱 I’m learning Rust
 
 🤔 I’m looking for help with reaching a conversational level in German
 
