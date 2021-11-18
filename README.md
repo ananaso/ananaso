@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on my [GM writeups for a D&D Campaign](https://github.com/ananaso/GMNotes_CurseOfStrahd)
 
-🌱 I’m learning Rust
+🌱 I’m brushing up on the basics of writing and deploying javascript-based fullstack applications to prep for a job-related certification.
 
 🤔 I’m looking for help with reaching a conversational level in German
 
