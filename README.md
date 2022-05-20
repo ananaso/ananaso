@@ -2,9 +2,9 @@
 
 #### I sometimes write code and like to dream about doing it at work someday.
 
-🔭 I’m currently tesing for a job-related certification in javascript-based fullstack application development and [using LaTeX to plan and record a D&D campaign](https://github.com/ananaso/GMNotes_CurseOfStrahd)
+🔭 I’m currently working as a full-stack developer and [using LaTeX to plan and record a D&D campaign](https://github.com/ananaso/GMNotes_CurseOfStrahd)
 
-🌱 I’m learning Rust by writing a [budgeting app](https://github.com/ananaso/rusty_budget) and always trying to improve my German language skills.
+🌱 I’m learning Rust by expanding on [pastebin app](https://github.com/ananaso/rocket-pastebin) and am casually learning Scottish Gaelic (Gàidhlig).
 
 👉 [My résumé](https://github.com/ananaso/resume/blob/master/adavidson_resume.pdf)
 
