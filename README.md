@@ -4,7 +4,7 @@
 
 🔭 I’m currently working as a full-stack developer and [using LaTeX to plan and record a D&D campaign](https://github.com/ananaso/GMNotes_CurseOfStrahd)
 
-🌱 I’m learning Rust by expanding on [pastebin app](https://github.com/ananaso/rocket-pastebin) and am casually learning Scottish Gaelic (Gàidhlig).
+🌱 I’m learning Rust by expanding on Rocket's [pastebin app](https://github.com/ananaso/rocket-pastebin) and am casually learning Scottish Gaelic (Gàidhlig).
 
 👉 [My résumé](https://github.com/ananaso/resume/blob/master/adavidson_resume.pdf)
 
