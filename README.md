@@ -1,6 +1,6 @@
 ### Ahoy! 👋
 
-#### I sometimes write code and like to dream about doing it at work someday.
+#### I write code for the United States Space Force under Kobayashi Maru.
 
 🔭 I’m currently working as a full-stack developer and [using LaTeX to plan and record a D&D campaign](https://github.com/ananaso/GMNotes_CurseOfStrahd)
 
