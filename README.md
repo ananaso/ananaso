@@ -2,9 +2,9 @@
 
 #### I write code for the United States Space Force under Kobayashi Maru.
 
-🔭 I’m currently working as a full-stack developer and [using LaTeX to plan and record a D&D campaign](https://github.com/ananaso/GMNotes_CurseOfStrahd)
+🔭 I’m currently working as a full-stack developer.
 
-🌱 I’m learning Rust by expanding on Rocket's [pastebin app](https://github.com/ananaso/rocket-pastebin) and am casually learning Scottish Gaelic (Gàidhlig).
+🌱 I’m learning Rust by expanding on Rocket's [pastebin app](https://github.com/ananaso/rocket-pastebin) and am continuing to improve on my German language skills.
 
 👉 [My résumé](https://github.com/ananaso/resume/blob/master/adavidson_resume.pdf)
 
