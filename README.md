@@ -1,10 +1,10 @@
 ### Ahoy! 👋
 
-#### I write code for the United States Space Force under Kobayashi Maru.
+#### I write code for the United States Space Force under Kobayashi Maru's Section 31.
 
 🔭 I’m currently working as a full-stack developer.
 
-🌱 I’m learning Rust by expanding on Rocket's [pastebin app](https://github.com/ananaso/rocket-pastebin) and am continuing to improve on my German language skills.
+🤝 I’m working with @justinthelaw to create [Opera](https://github.com/justinthelaw/opera), a fork of [pdf-bullets](https://github.com/AF-VCD/pdf-bullets), and am continuing to improve on my German language skills.
 
 👉 [My résumé](https://github.com/ananaso/resume/blob/master/adavidson_resume.pdf)
 
