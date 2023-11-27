@@ -1,6 +1,6 @@
 ### Ahoy! 👋
 
-#### I write code for the United States Space Force under Kobayashi Maru's Section 31.
+#### I write code for the United States Space Force under Kobayashi Maru's Section 31, but am transitioning to private industry in Aug 2024.
 
 🔭 I’m currently working as a full-stack developer.
 
