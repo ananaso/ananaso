@@ -6,7 +6,7 @@
 
 🤝 I’m collaborating with [@justinthelaw](https://github.com/justinthelaw) to create [Opera](https://github.com/justinthelaw/opera), a fork of [pdf-bullets](https://github.com/AF-VCD/pdf-bullets), and am continuing to improve on my German language skills.
 
-👉 [My résumé](https://github.com/ananaso/resume/blob/master/adavidson_resume.pdf)
+👉 [My résumé](https://github.com/ananaso/resume/blob/master/resume_adavidson.pdf)
 
 <!--
 ---
