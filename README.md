@@ -4,7 +4,9 @@
 
 🔭 I’m currently working as a full-stack developer.
 
-🤝 I’m collaborating with [@justinthelaw](https://github.com/justinthelaw) to create [Opera](https://github.com/justinthelaw/opera), a fork of [pdf-bullets](https://github.com/AF-VCD/pdf-bullets), and am continuing to improve on my German language skills.
+🤝 I’m collaborating with [@justinthelaw](https://github.com/justinthelaw) to create [Opera](https://github.com/justinthelaw/opera), a fork of [pdf-bullets](https://github.com/AF-VCD/pdf-bullets), where I am refactoring and preparing the frontend to incorporate the new features.
+
+🌱 In my free time I'm continuing to improve my German skills, I'm dabbling in Esperanto, and I've recently gotten into road cycling.
 
 👉 [My résumé](https://github.com/ananaso/resume/blob/master/resume_adavidson.pdf)
 
