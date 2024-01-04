@@ -2,7 +2,7 @@
 
 #### I write code for USSF under Kobayashi Maru's Section 31, but am transitioning to private industry in Aug 2024.
 
-🔭 I’m currently working as a full-stack developer.
+🔭 I’m currently working as a full-stack developer, creating solutions for space command and control.
 
 🤝 I’m collaborating with [@justinthelaw](https://github.com/justinthelaw) to create [Opera](https://github.com/justinthelaw/opera), a fork of [pdf-bullets](https://github.com/AF-VCD/pdf-bullets), where I am refactoring and preparing the frontend to incorporate the new features.
 
