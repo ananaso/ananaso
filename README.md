@@ -2,11 +2,11 @@
 
 #### I write code for USSF under Kobayashi Maru's Section 31, but am transitioning to private industry in Aug 2024.
 
-🔭 I’m currently working as a full-stack developer, creating solutions for space command and control.
+🔭 I’m currently working as a software engineering SkillBridge intern for [Sagely](https://www.growsagely.com/), helping develop a new platform for guiding folks in their learning journeys.
 
-🤝 I’m collaborating with [@justinthelaw](https://github.com/justinthelaw) to create [Opera](https://github.com/justinthelaw/opera), a fork of [pdf-bullets](https://github.com/AF-VCD/pdf-bullets), where I am refactoring and preparing the frontend to incorporate the new features.
+🌱 I'm creating a [personal website](https://github.com/ananaso/adavidson.us) both to host my content and continue to grow my web development skills.
 
-🌱 In my free time I'm continuing to improve my German skills, I'm dabbling in Esperanto, I've started toying around with self-hosting, and I've recently gotten into road cycling.
+⚡ In my free time I like to do road cycling, I'm continuing to improve my German skills, I'm dabbling in Scottish Gaelic, and I've started toying around with self-hosting.
 
 👉 [My résumé](https://github.com/ananaso/resume/blob/master/resume_adavidson.pdf)
 
